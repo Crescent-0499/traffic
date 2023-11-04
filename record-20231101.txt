@@ -1,0 +1,170 @@
+20231031
+
+https://cn.nytimes.com/usa/20231031/biden-israel/				20231031-1.pcap
+
+https://cn.nytimes.com/opinion/20231028/israel-gaza-hamas-invasion/     	20231031-2.pcap
+
+https://cn.nytimes.com/china/20231028/li-keqiang-mourning-online/    		20231031-3.pcap
+
+https://cn.nytimes.com/culture/20231031/britney-spears-woman-in-me/  		20231031-4.pcap
+
+https://cn.nytimes.com/opinion/20231030/china-taiwan-us-war/ 			20231031-5.pcap
+
+https://cn.nytimes.com/opinion/20231030/israel-palestine-college-campuses/	20231031-6.pcap
+
+https://cn.nytimes.com/china/20231027/li-keqiang-china-dead/ 			20231031-7.pcap
+
+https://cn.nytimes.com/world/20231030/israel-intelligence-hamas-attack/   	20231031-8.pcap
+
+https://cn.nytimes.com/opinion/20231027/putin-russia-gaza-israel/   		20231031-9.pcap
+
+https://cn.nytimes.com/opinion/20231026/israel-gaza-palestine-war/      	20231031-10.pcap
+
+https://cn.nytimes.com/usa/20231031/biden-israel/         			20231031-11.pcap
+
+https://cn.nytimes.com/china/20231028/li-keqiang-mourning-online/      		20231031-12.pcap
+
+https://cn.nytimes.com/china/20231027/li-keqiang-china-dead/   			20231031-13.pcap
+
+https://cn.nytimes.com/culture/20231031/britney-spears-woman-in-me/  		20231031-14.pcap
+
+https://cn.nytimes.com/world/20231030/israel-intelligence-hamas-attack/		20231031-15.pcap
+
+https://cn.nytimes.com/opinion/20231028/israel-gaza-hamas-invasion/  		20231031-16.pcap
+
+https://cn.nytimes.com/opinion/20231030/china-taiwan-us-war/        		20231031-17.pcap
+
+https://cn.nytimes.com/opinion/20231030/israel-palestine-college-campuses/  	20231031-18.pcap
+
+https://cn.nytimes.com/opinion/20231027/putin-russia-gaza-israel/    		20231031-19.pcap
+
+https://cn.nytimes.com/opinion/20231026/israel-gaza-palestine-war/   		20231031-20.pcap
+
+
+20231031-frequentclear
+
+
+https://cn.nytimes.com/usa/20231031/biden-israel/				20231031-1.pcap
+
+https://cn.nytimes.com/china/20231028/li-keqiang-mourning-online/		20231031-2.pcap
+
+https://cn.nytimes.com/china/20231027/li-keqiang-china-dead/			20231031-3.pcap
+
+https://cn.nytimes.com/china/20231025/china-defense-minister-ousted/		20231031-4.pcap
+
+https://cn.nytimes.com/culture/20231031/britney-spears-woman-in-me/		20231031-5.pcap
+
+https://cn.nytimes.com/world/20231030/israel-intelligence-hamas-attack/		20231031-6.pcap
+
+https://cn.nytimes.com/opinion/20231028/israel-gaza-hamas-invasion/		20231031-7.pcap
+
+https://cn.nytimes.com/opinion/20231030/china-taiwan-us-war/			20231031-8.pcap
+
+https://cn.nytimes.com/opinion/20231030/israel-palestine-college-campuses/	20231031-9.pcap
+
+https://cn.nytimes.com/opinion/20231027/putin-russia-gaza-israel/		20231031-10.pcap
+
+
+20231101
+
+https://cn.nytimes.com/usa/20231031/biden-israel/				20231101-1.pcap
+
+https://cn.nytimes.com/china/20231028/li-keqiang-mourning-online/		20231101-2.pcap
+
+https://cn.nytimes.com/china/20231027/li-keqiang-china-dead/			20231101-3.pcap
+
+https://cn.nytimes.com/world/20231101/israel-gaza-invasion-secrecy/		20231101-4.pcap
+
+https://cn.nytimes.com/world/20231030/israel-intelligence-hamas-attack/		20231101-5.pcap
+
+https://cn.nytimes.com/opinion/20231028/israel-gaza-hamas-invasion/		20231101-6.pcap
+
+https://cn.nytimes.com/opinion/20231030/china-taiwan-us-war/			20231101-7.pcap
+
+https://cn.nytimes.com/opinion/20231030/israel-palestine-college-campuses/	20231101-8.pcap
+
+https://cn.nytimes.com/opinion/20231027/putin-russia-gaza-israel/		20231101-9.pcap
+
+https://cn.nytimes.com/opinion/20231026/israel-gaza-palestine-war/		20231101-10.pcap
+
+https://cn.nytimes.com/usa/20231031/biden-israel/				20231101-11.pcap
+
+https://cn.nytimes.com/china/20231028/li-keqiang-mourning-online/		20231101-12.pcap
+
+https://cn.nytimes.com/china/20231027/li-keqiang-china-dead/			20231101-13.pcap
+
+https://cn.nytimes.com/world/20231101/israel-gaza-invasion-secrecy/		20231101-14.pcap
+
+https://cn.nytimes.com/world/20231030/israel-intelligence-hamas-attack/		20231101-15.pcap
+
+https://cn.nytimes.com/opinion/20231028/israel-gaza-hamas-invasion/ 		20231101-16.pcap
+
+https://cn.nytimes.com/opinion/20231030/china-taiwan-us-war/			20231101-17.pcap
+
+https://cn.nytimes.com/opinion/20231030/israel-palestine-college-campuses/	20231101-18.pcap
+
+https://cn.nytimes.com/opinion/20231027/putin-russia-gaza-israel/ 		20231101-19.pcap
+
+https://cn.nytimes.com/opinion/20231026/israel-gaza-palestine-war/		20231101-20.pcap
+
+https://cn.nytimes.com/usa/20231031/biden-israel/				20231101-21.pcap
+
+https://cn.nytimes.com/china/20231028/li-keqiang-mourning-online/		20231101-22.pcap
+
+https://cn.nytimes.com/china/20231027/li-keqiang-china-dead/			20231101-23.pcap
+
+https://cn.nytimes.com/world/20231101/israel-gaza-invasion-secrecy/		20231101-24.pcap
+
+https://cn.nytimes.com/world/20231030/israel-intelligence-hamas-attack/		20231101-25.pcap
+
+https://cn.nytimes.com/opinion/20231028/israel-gaza-hamas-invasion/		20231101-26.pcap
+
+https://cn.nytimes.com/opinion/20231030/china-taiwan-us-war/			20231101-27.pcap
+
+https://cn.nytimes.com/opinion/20231030/israel-palestine-college-campuses/	20231101-28.pcap
+
+https://cn.nytimes.com/opinion/20231027/putin-russia-gaza-israel/		20231101-29.pcap
+
+https://cn.nytimes.com/opinion/20231026/israel-gaza-palestine-war/		20231101-30.pcap
+
+https://cn.nytimes.com/usa/20231031/biden-israel/				20231101-31.pcap
+
+https://cn.nytimes.com/china/20231028/li-keqiang-mourning-online/		20231101-32.pcap
+
+https://cn.nytimes.com/china/20231027/li-keqiang-china-dead/			20231101-33.pcap
+
+https://cn.nytimes.com/world/20231101/israel-gaza-invasion-secrecy/		20231101-34.pcap
+
+https://cn.nytimes.com/world/20231030/israel-intelligence-hamas-attack/		20231101-35.pcap
+
+https://cn.nytimes.com/opinion/20231028/israel-gaza-hamas-invasion/		20231101-36.pcap
+
+https://cn.nytimes.com/opinion/20231030/china-taiwan-us-war/			20231101-37.pcap
+
+https://cn.nytimes.com/opinion/20231030/israel-palestine-college-campuses/	20231101-38.pcap
+
+https://cn.nytimes.com/opinion/20231027/putin-russia-gaza-israel/		20231101-39.pcap
+
+https://cn.nytimes.com/opinion/20231026/israel-gaza-palestine-war/		20231101-40.pcap
+
+https://cn.nytimes.com/usa/20231031/biden-israel/				20231101-41.pcap
+
+https://cn.nytimes.com/china/20231028/li-keqiang-mourning-online/		20231101-42.pcap
+
+https://cn.nytimes.com/china/20231027/li-keqiang-china-dead/			20231101-43.pcap
+
+https://cn.nytimes.com/world/20231101/israel-gaza-invasion-secrecy/		20231101-44.pcap
+
+https://cn.nytimes.com/world/20231030/israel-intelligence-hamas-attack/		20231101-45.pcap
+
+https://cn.nytimes.com/opinion/20231028/israel-gaza-hamas-invasion/		20231101-46.pcap
+
+https://cn.nytimes.com/opinion/20231030/china-taiwan-us-war/			20231101-47.pcap
+
+https://cn.nytimes.com/opinion/20231030/israel-palestine-college-campuses/	20231101-48.pcap
+
+https://cn.nytimes.com/opinion/20231027/putin-russia-gaza-israel/		20231101-49.pcap
+
+https://cn.nytimes.com/opinion/20231026/israel-gaza-palestine-war/		20231101-50.pcap
+
+
